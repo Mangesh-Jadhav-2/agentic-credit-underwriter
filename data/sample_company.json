@@ -1,0 +1,26 @@
+{
+  "company_name": "Apex Industrial Manufacturing Inc",
+  "ticker": "APEX",
+  "currency": "USD",
+  "unit": "USD",
+  "fiscal_year": 2025,
+  "financials": {
+    "current_assets": 45000000.0,
+    "current_liabilities": 28000000.0,
+    "total_assets": 120000000.0,
+    "total_liabilities": 65000000.0,
+    "shareholder_equity": 55000000.0,
+    "working_capital": 17000000.0,
+    "retained_earnings": 22000000.0,
+    "sales": 110000000.0,
+    "ebit": 18500000.0,
+    "net_operating_income": 19200000.0,
+    "interest_expense": 3200000.0,
+    "principal_repayment": 4500000.0,
+    "market_cap": 75000000.0,
+    "financial_debt": 40000000.0,
+    "goodwill": 0.0,
+    "intangibles": 0.0
+  },
+  "qualitative_notes": "Note 14 - Legal Contingencies: The company is currently named as a defendant in a commercial patent infringement suit claiming damages of $12.0 Million. Management considers the claim unsustainable, but an adverse decree could impact near-term working capital.\nNote 18 - Debt Covenants: The company's senior credit facility requires maintaining a minimum Debt Service Coverage Ratio (DSCR) of 1.35x and a maximum Debt-to-Equity ratio of 2.00x under international lending syndicate standards. A breach permits lenders to recall the facility.\nNote 22 - Customer Concentration: One major commercial OEM client accounts for approximately 34% of net annual revenue. The master service agreement is due for renewal in Q4 2026."
+}

@@ -1,0 +1,21 @@
+# Secrets: never commit
+.env
+*.env
+!.env.example
+
+# Environments and caches
+venv/
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Run output (contains per-run data) and local backups
+logs/
+_backup_pre_phase1/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
